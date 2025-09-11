@@ -110,9 +110,9 @@ Retail managers often lack a single view of sales, product performance, and stoc
 ---
 
 ## 6. Demo
-![[Dashboard Preview](https://github.com/wijdenmediouni1/Fashion-Business-Tracking-/blob/main/Fashion01.png)
+![Dashboard Preview](https://github.com/wijdenmediouni1/Fashion-Business-Tracking-/blob/main/Fashion01.png)
 
-![[Dashboard Preview](https://github.com/wijdenmediouni1/Fashion-Business-Tracking-/blob/main/Fashion02.png)
+![Dashboard Preview](https://github.com/wijdenmediouni1/Fashion-Business-Tracking-/blob/main/Fashion02.png)
 
 
 
